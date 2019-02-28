@@ -4,6 +4,7 @@
 
 using std::vector;
 using std::set;
+
 class SetGraph : public IGraph {
 public:
     SetGraph(int nVertices);
